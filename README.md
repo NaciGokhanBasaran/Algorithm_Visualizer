@@ -74,10 +74,12 @@ std::vector<float> list = { 2, 5, 8, 3, 12, 1 };
 You can modify this dataset in the `main()` function to visualize different sets of numbers.
 
 ---
+## Gif
+![Sorting Algorithm Visualizer Demo](gif1.gif)
 
 ## Video
-<a href="https://www.youtube.com/watch?v=WQD4P9kJWz0">
-  <img src="https://img.youtube.com/vi/WQD4P9kJWz0/0.jpg" alt="Video Thumbnail">
+<a href="https://www.youtube.com/watch?v=hBIMvmKBYys">
+  <img src="https://img.youtube.com/vi/hBIMvmKBYys/0.jpg" alt="Video Thumbnail">
 </a>
 ---
 
