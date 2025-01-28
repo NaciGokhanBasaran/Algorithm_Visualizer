@@ -26,7 +26,7 @@ This project is a graphical visualization tool for various sorting algorithms, i
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/algorithm-visualizer.git
+   git clone https://github.com/NaciGokhanBasaran/algorithm-visualizer.git
    cd algorithm-visualizer
    ```
 
@@ -95,7 +95,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Acknowledgments
+
 
 - **SFML**: For providing a simple and efficient library for multimedia applications.
 - **Sorting Algorithms**: For being the foundation of this visualization tool.
