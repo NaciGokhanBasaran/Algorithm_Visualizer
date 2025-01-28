@@ -76,7 +76,7 @@ You can modify this dataset in the `main()` function to visualize different sets
 ---
 
 ## Video
-<a href="[https://www.youtube.com/watch?v=your-video-id](https://www.youtube.com/watch?v=WQD4P9kJWz0)">
+<a href="https://www.youtube.com/watch?v=WQD4P9kJWz0">
   <img src="https://img.youtube.com/vi/WQD4P9kJWz0/0.jpg" alt="Video Thumbnail">
 </a>
 ---
